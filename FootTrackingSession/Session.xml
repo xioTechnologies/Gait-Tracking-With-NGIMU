@@ -1,0 +1,8 @@
+<Session>
+  <SessionInformation Name="FootTrackingSession" Date="2016-12-01 01:03:54" Duration="00:00:15.000" />
+  <ApplicationInformation ApplicationName="NGIMU GUI" ApplicationVersion="1.2.6177.41785" ApiVersion="1.2.6177.41785" />
+  <UserInformation UserName="Seb" MachineName="SAMSUNG" />
+  <Devices>
+    <Device SerialNumber="0029CEC0" DeviceName="NGIMU" ConnectionType="Udp" DirectoryName="NGIMU - 0029CEC0" />
+  </Devices>
+</Session>
